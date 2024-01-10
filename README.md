@@ -1,6 +1,6 @@
 # Landing Page
 
-Personal landing page template.
+Personal landing page template. https://portafolio-js23.vercel.app/
 
 Designed to keep simplicity in mind in both setup and UI.
 
